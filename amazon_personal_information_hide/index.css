@@ -1,0 +1,24 @@
+a#nav-link-accountList > span.nav-line-1 {
+    display: none!important;
+}
+a.nav-a.nav-a-2.a-popover-trigger.a-declarative {
+    display: none!important;
+}
+div#hmenu-customer-name > b {
+    display: none!important;
+}
+div#nav-supra{
+    display: none!important;
+}
+.a-row.a-spacing-mini {
+    display: none!important;
+}
+.a-cardui-header.aok-clearfix {
+    display: none!important;
+}
+div#cbcc_content_container {
+    display: none;
+}
+.a-row.a-size-small.a-color-secondary.sc-points-heading {
+    display: none!important;
+}
