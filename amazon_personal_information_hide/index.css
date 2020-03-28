@@ -22,3 +22,9 @@ div#cbcc_content_container {
 .a-row.a-size-small.a-color-secondary.sc-points-heading {
     display: none!important;
 }
+div#nav-global-location-slot {
+    display: none!important;
+}
+div#contextualIngressPtLabel_deliveryShortLine {
+    display: none!important;
+}
