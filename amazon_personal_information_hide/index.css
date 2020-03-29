@@ -10,21 +10,21 @@ div#hmenu-customer-name > b {
 div#nav-supra{
     display: none!important;
 }
-.a-row.a-spacing-mini {
-    display: none!important;
-}
 .a-cardui-header.aok-clearfix {
     display: none!important;
 }
 div#cbcc_content_container {
-    display: none;
+    display: none!important;
 }
 .a-row.a-size-small.a-color-secondary.sc-points-heading {
     display: none!important;
 }
+
 div#nav-global-location-slot {
     display: none!important;
 }
+
 div#contextualIngressPtLabel_deliveryShortLine {
     display: none!important;
 }
+
