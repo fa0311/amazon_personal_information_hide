@@ -6,3 +6,5 @@ Amazonに表示される一部の個人情報を非表示にします<br>
 そのうちchromeストアにもアップロードします<br>
 使い方はchromeの拡張機能を選択し「デベロッパーモード」をオンにしたあと「パッケージ化されていない拡張機能を読み込む」を選択しamazon_personal_information_hideファイルを選択してください
 この拡張機能はcssとhtmlのみで構成されているため利用者の情報を盗み取ったりすることはできません<br>
+#License
+youtube-easy-to-see-for-chrome-extension is under MIT License
