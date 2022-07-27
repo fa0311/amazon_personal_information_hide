@@ -1,4 +1,7 @@
 # amazon_personal_information_hide
+![](https://img.shields.io/chrome-web-store/users/kpffakljoffeckbckheiheogajnofdpc)
+![](https://img.shields.io/chrome-web-store/stars/kpffakljoffeckbckheiheogajnofdpc)
+
 Amazonに表示される一部の個人情報を非表示にします<br>
 このツールを入れるとAmazonに表示される一部の個人情報が非表示にされます<br>
  Amazonのスクリーンショットなどをtwitterなどに共有する際にわざわざモザイクを掛けずに共有できます<br>
