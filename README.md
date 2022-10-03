@@ -15,4 +15,4 @@ Amazon のスクリーンショットなどを twitter などに共有する際�
 Chrome の 拡張機能の管理 を選択して デベロッパーモード を有効にした後、ダウンロードした zip ファイルをページにドラッグしてください
 
 または
-[Chrome Web Store](https://chrome.google.com/webstore/detail/%E3%83%A6%E3%83%BC%E3%83%81%E3%83%A5%E3%83%BC%E3%83%96%E8%A6%8B%E3%82%84%E3%81%99%E3%81%8F%EF%BC%81%EF%BC%81/cfbgjaoabchkibpphiklamgacbjgnlfe) から
+[Chrome Web Store](https://chrome.google.com/webstore/detail/amazon%E3%81%AE%E5%80%8B%E4%BA%BA%E6%83%85%E5%A0%B1%E3%82%92%E9%9A%A0%E3%81%97%E3%81%BE%E3%81%99/kpffakljoffeckbckheiheogajnofdpc) から
