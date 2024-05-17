@@ -1,55 +1,68 @@
 /* ヘッダー */
-div#nav-global-location-slot{
-    display: none!important;
+div#nav-global-location-slot {
+    display: none !important;
 }
+
 .nav-line-1-container {
-    display: none!important;
+    display: none !important;
 }
+
 /* ドロワー */
 a#hmenu-customer-profile-link {
-    display: none!important;
+    display: none !important;
 }
+
 /* 注文履歴 */
 .a-column.a-span7.recipient.a-span-last {
-    display: none!important;
+    display: none !important;
 }
+
 /* 配送状況の確認 */
 div#deliveredAddress {
-    color: #ffffff!important;
+    color: #ffffff !important;
 }
+
 h4.a-spacing-small.carrierRelatedInfo-trackingId-text {
-    color: #ffffff!important;
+    color: #ffffff !important;
 }
+
 /* 注文の詳細 */
 .a-row.a-spacing-micro {
-    display: #ffffff!important;
+    display: #ffffff !important;
 }
+
 /* 商品ページ */
 div#cipInsideDeliveryBlock_feature_div {
-    display: none!important;
+    display: none !important;
 }
+
 /* 購入ページ */
 .displayAddressDiv .displayAddressUL li {
     display: none;
 }
+
 div#widget-shipmentText-orderGroupID0 {
-    color: #ffffff!important;
+    color: #ffffff !important;
 }
 
 /* ログイン */
-.a-row.a-size-base-plus.auth-text-truncate{
-    color: #ffffff!important;
+.a-row.a-size-base-plus.auth-text-truncate {
+    color: #ffffff !important;
 }
-.a-row.a-size-base.a-color-tertiary.auth-text-truncate{
-    color: #ffffff!important;
+
+.a-row.a-size-base.a-color-tertiary.auth-text-truncate {
+    color: #ffffff !important;
 }
+
 /* アカウント切り替え */
 .a-row.a-size-base-plus {
-    color: #ffffff!important;
+    color: #ffffff !important;
 }
+
 .a-row.a-size-base {
-    color: #ffffff!important;
+    color: #ffffff !important;
 }
+
 /* プライムビデオ ホーム */
 .nav-profiles {
     display: none;
