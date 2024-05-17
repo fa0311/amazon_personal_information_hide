@@ -13,16 +13,26 @@ a#hmenu-customer-profile-link {
 }
 
 /* 注文履歴 */
-.a-column.a-span7.recipient.a-span-last {
+.a-column.a-span7.a-span-last {
     display: none !important;
 }
 
 /* 配送状況の確認 */
-div#deliveredAddress {
+div#shippingAddress-container {
     color: #ffffff !important;
 }
 
-h4.a-spacing-small.carrierRelatedInfo-trackingId-text {
+div.pt-delivery-card-trackingId {
+    color: #ffffff !important;
+}
+
+/* 配送状況の確認  更に表示 */
+
+span.tracking-event-location {
+    color: #ffffff !important;
+}
+
+h4.a-spacing-medium {
     color: #ffffff !important;
 }
 
@@ -36,12 +46,22 @@ div#cipInsideDeliveryBlock_feature_div {
     display: none !important;
 }
 
+/* 商品ページ ALEXA */
+
+div.sh-certified-personalized-badge-description-text {
+    display: none !important;
+}
+
 /* 購入ページ */
 .displayAddressDiv .displayAddressUL li {
     display: none;
 }
 
 div#widget-shipmentText-orderGroupID0 {
+    color: #ffffff !important;
+}
+
+div[data-testid] {
     color: #ffffff !important;
 }
 
