@@ -1,7 +1,7 @@
 {
     "name": "Amazonの個人情報を隠します",
     "description": "スクリーンショットなどをよく撮る人向けです",
-    "version": "2.0.2",
+    "version": "2.0.3",
     "manifest_version": 3,
     "action": {
         "default_popup": "html/popup.html"
